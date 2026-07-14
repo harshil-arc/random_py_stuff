@@ -1,5 +1,7 @@
-![Heart Animation Preview](heart_photo.png)
+
 # 💖 Shimmering Text Heart Animation
+
+![Heart Animation Preview](heart_photo.png)
 
 A beautiful, interactive Python application built with **Pygame** that renders an organic, glowing heart shape entirely out of text particles. Over time, individual instances of the text `"love you"` smoothly fade into existence at random intervals, creating a dynamic twinkling effect.
 
